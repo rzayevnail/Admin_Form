@@ -5,5 +5,11 @@
 ![image](https://github.com/user-attachments/assets/bfcb7a08-6833-44fc-899a-fd41e993b3d3)
 ![image](https://github.com/user-attachments/assets/01943a2c-277c-4768-90c7-f7d9f998ac7a)
 ![image](https://github.com/user-attachments/assets/8b0371a8-06b7-4615-92d8-4207bca5f088)
-
+💻 Project Feature 💻
+  1.Qr Code 👨🏻‍💻
+  2.Group Chat
+  3.Camera📷(click it add photo add in project) or
+  Twice Click and add photo in your computer👤
+  4.Login Page 🔐
+  5.Gmail Message📩
 
