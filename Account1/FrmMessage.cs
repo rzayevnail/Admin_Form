@@ -33,10 +33,10 @@ namespace Account1
                 mailMessage.Subject = textBox2.Text;
                 mailMessage.Body = textBox3.Text;
 
-                smtp.Port = 587;
+                smtp.Port = 000;
                 smtp.Host = "smtp.gmail.com";
                 smtp.EnableSsl = true;
-                smtp.Credentials = new NetworkCredential("rzayevnail03@gmail.com", "ikzcbpbkmmjkbvnj");
+                smtp.Credentials = new NetworkCredential("rzayevnail03@gmail.com", "code");
 
                 smtp.Send(mailMessage);
 
