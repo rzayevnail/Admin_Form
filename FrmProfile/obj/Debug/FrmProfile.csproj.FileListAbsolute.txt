@@ -1,0 +1,5 @@
+C:\Users\nailr\source\repos\Acccount\Account1\FrmProfile\obj\Debug\FrmProfile.csproj.AssemblyReference.cache
+C:\Users\nailr\source\repos\Acccount\Account1\FrmProfile\obj\Debug\FrmProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\nailr\source\repos\Acccount\Account1\FrmProfile\obj\Debug\FrmProfile.Properties.Resources.resources
+C:\Users\nailr\source\repos\Acccount\Account1\FrmProfile\obj\Debug\FrmProfile.csproj.GenerateResource.cache
+C:\Users\nailr\source\repos\Acccount\Account1\FrmProfile\obj\Debug\FrmProfile.csproj.CoreCompileInputs.cache
